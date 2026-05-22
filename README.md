@@ -27,8 +27,8 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/zalf179/Auto-fill-form.git
+cd Auto-fill-form
 ```
 
 ### 2. Install Python dependencies
